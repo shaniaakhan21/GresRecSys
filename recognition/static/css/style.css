@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-color: #e8e8e8;
+}
+
+.container1{
+    height: 100%;
+    background-color: #03A9F4;
+}
+
+.nav{
+    color: white;
+    font-family: sans-serif;
+    font-size: x-large;
+    height: 70px;
+    width :1365px ;
+    background-color:dodgerblue ;
+}
+
+#skip{
+    position: absolute;
+    left:1250px;
+    top:20px;
+    color: white;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+/* .nav{
+    height: 100px;
+    width :1000px ;
+    background-color:dodgerblue ;
+} */
+
